@@ -4,15 +4,32 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** with a deep interes
 
 ---
 
+## 📊 GitHub Stats  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=theraminrezaei&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theraminrezaei&layout=compact&theme=radical)  
+
+---
+
 ## 🛠 Skills and Technologies  
 
 ### **Languages:**  
 - ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)  
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
+- ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MicrosoftSQLServer&logoColor=white)  
+
+### **Backend Development:**  
+- ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white)  
+- ![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-512BD4?logo=dotnet&logoColor=white)  
+- ![ASP.NET Web API](https://img.shields.io/badge/-ASP.NET%20Web%20API-512BD4?logo=dotnet&logoColor=white)  
 
 ### **Frontend Development:**  
 - ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
 - ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
+- ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)  
+- ![Less](https://img.shields.io/badge/-Less-1D365D?logo=less&logoColor=white)  
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)  
 - ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?logo=blazor&logoColor=white)  
@@ -28,34 +45,13 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** with a deep interes
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=theraminrezaei&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theraminrezaei&layout=compact&theme=radical)  
-
----
-
-## 📂 Featured Projects  
-
-- [**Accounting System**](https://github.com/theraminrezaei/accounting-system): A comprehensive commercial accounting software with robust features and secure authentication.  
-- [**Online Store**](https://github.com/theraminrezaei/online-store): An e-commerce platform developed using ASP.NET MVC.  
-- [**Blogging System**](https://github.com/theraminrezaei/blogging-system): A blogging platform with dynamic content management and user-friendly features.  
-
----
-
-## 🌟 Fun Facts  
-
-- 🌍 Based in Iran  
-- 💻 Always exploring new technologies  
-- 🚴 Hobbies: Cycling, reading, and learning new design tools  
-
----
-
 ## 📫 Connect with Me  
 
 - 📧 Email: [theraminrezaei@gmail.com](mailto:theraminrezaei@gmail.com)  
 - 💼 LinkedIn: [Ramin Rezaei](https://www.linkedin.com/in/theraminrezaei)  
 - 🐦 Twitter: [@theraminrezaei](https://twitter.com/theraminrezaei)  
+- 💬 Telegram: [@theraminrezaei](https://t.me/theraminrezaei)  
+- 📸 Instagram: [@theraminrezaei](https://instagram.com/theraminrezaei)  
 
 ---
 
