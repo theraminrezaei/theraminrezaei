@@ -43,9 +43,8 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** with a passion for 
 
 ## 📫 Connect with Me  
 
-- 📧 Email: [ramin@example.com](mailto:ramin@example.com)  
-- 💼 LinkedIn: [Ramin Rezaei](https://www.linkedin.com/in/theraminrezaei)  
-- 🐦 Twitter: [@theraminrezaei](https://twitter.com/theraminrezaei)  
+- 📧 Email: [theraminrezaei@gmail.com](mailto:theraminrezaei@gmail.com)  
+- 💼 LinkedIn: [Ramin Rezaei](https://www.linkedin.com/in/theraminrezaei) 
 
 ---
 
